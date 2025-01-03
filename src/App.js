@@ -3,6 +3,7 @@ function App() {
     <>
       <div>Hello</div>
       <div>HappyNewYear!!</div>
+      <div>welcome うさファミリー</div>
     </>
   );
 }
